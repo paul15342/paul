@@ -1,0 +1,28 @@
+2017-08-02 22:00:36,639:test_log.py[line:3] INFO this is testing
+2017-08-02 22:02:38,435:test_log.py[line:3] INFO this is testing
+2017-08-02 22:02:38,440:test_log.py[line:11] ERROR 分母不能为0 division by zero
+2017-08-02 22:03:06,752:test_log.py[line:3] INFO this is testing
+2017-08-02 22:03:06,752:test_log.py[line:12] ERROR 分母不能为0 division by zero
+2017-08-02 22:03:47,892:test_log.py[line:3] INFO this is testing
+2017-08-02 22:03:47,893:test_log.py[line:12] ERROR 分母不能为0 division by zero
+2017-08-02 22:04:17,548:test_log.py[line:3] INFO this is testing
+2017-08-02 22:04:17,548:test_log.py[line:12] ERROR 分母不能为0 division by zero
+2017-08-02 22:04:20,004:test_log.py[line:3] INFO this is testing
+2017-08-02 22:04:20,004:test_log.py[line:12] ERROR 分母不能为0 division by zero
+[2017-08-02 22:04:47,179]:test_log.py[line:3] INFO this is testing
+[2017-08-02 22:04:47,179]:test_log.py[line:12] ERROR 分母不能为0 division by zero
+[2017-08-02 22:10:11,750]:test_log.py[line:3] INFO this is testing
+[2017-08-02 22:13:37,903]:test_log.py[line:3] INFO this is testing
+[2017-08-02 22:13:37,903]:test_log.py[line:12] ERROR 分母不能为0 division by zero
+[2017-08-02 22:13:50,355]:test_log.py[line:3] INFO this is testing
+[2017-08-02 22:13:50,355]:test_log.py[line:12] ERROR 分母不能为0 division by zero
+[2017-08-02 22:14:53,541]:test_log.py[line:3] INFO this is testing
+[2017-08-02 22:14:53,541]:test_log.py[line:12] ERROR 分母不能为0 division by zero
+[2017-08-02 22:15:21,181]:test_log.py[line:3]    INFO this is testing
+[2017-08-02 22:15:21,181]:test_log.py[line:12]    ERROR 分母不能为0 division by zero
+[2017-08-02 22:15:44,751]:test_log.py  [line:3] INFO : this is testing
+[2017-08-02 22:15:44,751]:test_log.py  [line:12] ERROR : 分母不能为0 division by zero
+[2017-08-02 22:28:02,594]:test_log.py  [line:3] INFO : this is testing <module>
+[2017-08-02 22:28:02,594]:test_log.py  [line:12] ERROR : 分母不能为0 division by zero <module>
+[2017-08-02 22:28:25,723]:test_log.py  [line:3] INFO : this is testing <module>
+[2017-08-02 22:28:25,724]:test_log.py  [line:12] ERROR : 分母不能为0 division by zero <module>
